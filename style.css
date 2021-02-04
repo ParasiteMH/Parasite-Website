@@ -222,7 +222,7 @@ body div#error p span:after {
 }
 @-moz-keyframes blink {
   0%, 50%, 85%, 100% {
-    color: #000;
+    color: #8f8c85;
   }
   87%, 95% {
     color: transparent;
@@ -230,7 +230,7 @@ body div#error p span:after {
 }
 @-webkit-keyframes blink {
   0%, 50%, 85%, 100% {
-    color: #000;
+    color: #8f8c85;
   }
   87%, 95% {
     color: transparent;
@@ -238,7 +238,7 @@ body div#error p span:after {
 }
 @-o-keyframes blink {
   0%, 50%, 85%, 100% {
-    color: #000;
+    color: #8f8c85;
   }
   87%, 95% {
     color: transparent;
@@ -246,7 +246,7 @@ body div#error p span:after {
 }
 @keyframes blink {
   0%, 50%, 85%, 100% {
-    color: #000;
+    color: #8f8c85;
   }
   87%, 95% {
     color: transparent;
