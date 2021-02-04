@@ -84,7 +84,7 @@ body div#error p span {
 }
 body div#error p span:before,
 body div#error p span:after {
-  content: 'Cube';
+  content: 'Parasite';
   position: absolute;
   top: -1px;
   left: 0;
