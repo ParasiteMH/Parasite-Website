@@ -23,7 +23,7 @@ body div#error div#box {
 }
 body div#error div#box:before,
 body div#error div#box:after {
-  content: '';
+  content: 'M E M E S';
   position: absolute;
   top: 0;
   left: 0;
