@@ -79,7 +79,7 @@ body div#error p span {
   position: relative;
   display: inline-block;
   font-weight: bold;
-  color: #000;
+  color: #8f8c85;
   animation: blink 3s steps(1) infinite;
 }
 body div#error p span:before,
