@@ -1,0 +1,9 @@
+p {
+    font-size: 32px;
+    animation: change 3s step-end both;
+}
+
+@keyframes change {
+    from { color: magenta }
+    to   { color: red }
+}
